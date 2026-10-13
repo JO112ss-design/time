@@ -1,0 +1,7 @@
+{
+  "timerewind.message.rewound": "⏪ Rewound %s seconds",
+  "timerewind.command.triggered": "Rewinding time for %s",
+  "timerewind.command.toggle.on": "Time rewind: ON",
+  "timerewind.command.toggle.off": "Time rewind: OFF",
+  "timerewind.command.status": "Rewind %ss / history %s ticks / cooldown left %s ticks / personal: %s"
+}

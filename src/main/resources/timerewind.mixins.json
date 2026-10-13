@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.timerewind.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "timerewind.refmap.json",
+  "mixins": [
+    "LevelMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

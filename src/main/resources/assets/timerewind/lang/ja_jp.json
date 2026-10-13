@@ -1,0 +1,7 @@
+{
+  "timerewind.message.rewound": "⏪ %s秒前に巻き戻った",
+  "timerewind.command.triggered": "%s の時間を巻き戻します",
+  "timerewind.command.toggle.on": "時間巻き戻し: 有効",
+  "timerewind.command.toggle.off": "時間巻き戻し: 無効",
+  "timerewind.command.status": "巻き戻し %s秒 / 記録 %s tick / クールダウン残り %s tick / 本人設定: %s"
+}
